@@ -12,3 +12,8 @@
 -   Anoynymous functions.
 -   Selecting elements by id.
 -   Changing the image in an `<img>` element.
+
+### Updating scores and changing the active player
+
+-   What the ternary operator is.
+-   How to add, remove and toggle HTML classes.
