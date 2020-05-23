@@ -17,3 +17,8 @@
 
 -   What the ternary operator is.
 -   How to add, remove and toggle HTML classes.
+
+### Implemeneting the 'hold' function and the DRY principle
+
+-   Using functions to correctly apply the (Don't Repeat Yourself) DRY principle.
+-   Thinking about game logic like a programmer.
